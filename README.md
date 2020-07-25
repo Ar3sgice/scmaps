@@ -8,6 +8,12 @@ Defense maps. Kind of my favorite category so I made a lot of these
 ### bound
 Bound maps. You control a unit (most likely zergling) to run through the map avoiding explosions and dark archons
 
+### team
+Teamwork maps. either requires no micro or too many micro
+
+### rpg
+I recommend Atelier series and Idea Factory games for people who wants to play RPG. At least warcraft or RPGmaker, because starcraft isn't a good engine for it
+
 ### arena
 PvP/competitive maps. I have no idea how to play Desert Strike correctly
 
