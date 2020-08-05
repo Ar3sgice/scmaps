@@ -15,10 +15,10 @@ Teamwork maps. either requires no micro or too many micro
 I recommend Atelier series and Idea Factory games for people who wants to play RPG. At least warcraft or RPGmaker, because starcraft isn't a good engine for it
 
 ### arena
-PvP/competitive maps. I have no idea how to play Desert Strike correctly
+PvP/competitive maps. Including Blood/Madness type maps
 
 ### troll
 Maps that seem normal but goes wrong after a certain point in the game
 
 ### eud_remaster
-EUD maps suitable for Starcraft Remastered. Kind of a pity the game doesn't support iscript editing otherwise I can convert things like ASD3 or 7vs1probe to the new version
+EUD maps suitable for Starcraft Remastered. Kind of a pity it doesn't support iscript editing, it would be pretty fun
