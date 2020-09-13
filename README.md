@@ -12,7 +12,7 @@ Bound maps. You control a unit (most likely zergling) to run through the map avo
 Teamwork maps. either requires no micro or too many micro
 
 ### rpg
-I recommend Atelier series and Idea Factory games for people who wants to play RPG. At least warcraft or RPGmaker, because starcraft isn't a good engine for it
+RPG maps. Players only have one unit but it's overpowered enough to wipe out the entire map
 
 ### arena
 PvP/competitive maps. Including Blood/Madness type maps
